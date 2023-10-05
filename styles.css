@@ -1,0 +1,83 @@
+body {
+    background: lightgray;
+    margin: 0;
+}
+
+header {
+    background: white;
+    padding: 10px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+div.post {
+    background: white;
+    margin-top: 10px;
+}
+
+div.post img {
+    width: 100%;
+}
+
+div.post h2, div.post p, div.post span {
+    padding: 10px;
+    margin: 0;
+}
+
+span {
+    float: right;
+}
+
+div.post h2 {
+    float: left;
+}
+
+div.container {
+    width: 525px;
+    margin: auto;
+}
+
+/* .wrapper {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+/* }
+
+.center {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+}
+
+.one {
+    background-color: white;
+    margin: 50px auto;
+    width: 50%;
+    padding: 10px;
+    height: 400px;
+}
+
+.inner {
+    background-color: blue;
+}
+
+.fotodesc {
+    text-align: center;
+}
+
+.fototitle {
+    float: left;
+}
+
+.date {
+    float: right;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  } */
